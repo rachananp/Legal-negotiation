@@ -1,0 +1,2 @@
+[console_scripts]
+server = legal_negotiation.server.app:main
